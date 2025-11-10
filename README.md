@@ -1,0 +1,1 @@
+# sql_syntax_kf_analisa
